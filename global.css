@@ -1,0 +1,89 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-radio-canada: "Radio Canada";
+  --style-4-skills: Taviraj;
+  --font-quintessential: Quintessential;
+  --style-3-skills: Raleway;
+  --style-3-header-2: "Josefin Sans";
+  --style-2-text: "Work Sans";
+  --style-2-header-3: Trirong;
+  --style-1-year-city: Hind;
+  --style-1-header-3: "IBM Plex Sans";
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-base: 1rem;
+  --style-4-skills-size: 0.69rem;
+  --style-4-header-2-size: 0.81rem;
+  --style-4-year-city-size: 0.63rem;
+  --style-4-header-3-size: 0.75rem;
+  --style-4-header-1-size: 1.5rem;
+  --font-size-xl: 1.25rem;
+  --style-3-header-2-size: 0.88rem;
+  --style-3-header-1-size: 1.56rem;
+  --font-size-31xl: 3.13rem;
+  --font-size-mini: 0.94rem;
+  --font-size-21xl: 2.5rem;
+  --font-size-7xs: 0.38rem;
+  --font-size-4xs: 0.56rem;
+
+  /* Colors */
+  --color-blueviolet-100: #9747ff;
+  --color-blueviolet-200: #5b0dc1;
+  --color-darkblue: #5210a8;
+  --color-thistle: #dbcaf1;
+  --colors-white: #fff;
+  --colors-black: #212121;
+  --color-darkslategray: #3f4857;
+  --color-black: #000;
+
+  /* Gaps */
+  --gap-236xl: 15.94rem;
+  --gap-6xl: 1.56rem;
+  --gap-21xl: 2.5rem;
+  --gap-9xs: 0.25rem;
+  --gap-6xs: 0.44rem;
+  --gap-55xl: 4.63rem;
+  --gap-mini: 0.94rem;
+  --gap-62xl: 5.06rem;
+  --gap-10xs: 0.19rem;
+  --gap-56xl: 4.69rem;
+  --gap-xs: 0.75rem;
+  --gap-11xl: 1.88rem;
+  --gap-mid: 1.06rem;
+  --gap-39xl: 3.63rem;
+  --gap-smi: 0.81rem;
+  --gap-4xs: 0.56rem;
+  --gap-5xs: 0.5rem;
+  --gap-5xl: 1.5rem;
+  --gap-xl: 1.25rem;
+  --gap-3xs: 0.63rem;
+  --gap-7xs: 0.38rem;
+  --gap-8xs: 0.31rem;
+  --gap-12xs: 0.06rem;
+  --gap-sm: 0.88rem;
+  --gap-24xl: 2.69rem;
+
+  /* Paddings */
+  --padding-29xl: 3rem;
+  --padding-11xl: 1.88rem;
+  --padding-10xl: 1.81rem;
+  --padding-21xl: 2.5rem;
+  --padding-12xs: 0.06rem;
+  --padding-base: 1rem;
+  --padding-12xs-5: 0.03rem;
+  --padding-12xl: 1.94rem;
+
+  /* Border radiuses */
+  --br-mini: 15px;
+  --br-4xs: 9px;
+  --br-30xl: 49px;
+  --br-2xs: 11px;
+  --br-3xs: 10px;
+  --br-5xs: 8px;
+}
